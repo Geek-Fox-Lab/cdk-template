@@ -1,0 +1,7 @@
+{
+  "app": ".venv/bin/python app.py",
+  "context": {
+    "project_name": "cdk-template",
+    "environment": "dev"
+  }
+}
